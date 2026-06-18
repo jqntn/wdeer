@@ -85,7 +85,7 @@ export const Config = {
 
   assets: {
     /** Animated quadruped (CC0 Khronos Fox placeholder; swap for Quaternius deer). */
-    deerModel: "/assets/animals/fox.glb",
+    deerModel: `${import.meta.env.BASE_URL}assets/animals/fox.glb`,
     /** glTF animation-clip names → logical states. */
     deerClips: { idle: "Survey", walk: "Walk", run: "Run" },
     deerScale: 0.019,

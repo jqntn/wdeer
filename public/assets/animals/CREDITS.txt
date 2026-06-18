@@ -1,0 +1,2 @@
+Fox model by PixelMannen (CC0) / rig+anim by tomkranis (CC-BY 4.0 via Khronos glTF Sample Assets).
+Used as a placeholder animated quadruped; swap for a Quaternius CC0 deer by replacing fox.glb and updating Config.assets.
